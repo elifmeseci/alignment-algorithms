@@ -13,11 +13,11 @@ The Smith–Waterman algorithm performs local sequence alignment; that is, for d
     <br>word1='EXTENTION'
     <br>word2='EXECUTION'
     
-|   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|
-| E | X | - | E | C | U | T | I | O | N |
-| = | = | . | = | . | . | = | = | = | = |
-| E | X | T | E | - | N | T | I | O | N |
+|   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|
+| E | X | E | C | U | T | I | O | N |
+| = | = | . | . | . | = | = | = | = |
+| E | X | T | E | N | T | I | O | N |
 
 <br>MATCH = 7
 <br>MISMATCH = 3
